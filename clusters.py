@@ -122,3 +122,5 @@ def kcluster(rows,distance=pearson,k=4):
                     clusters[i] = avgs
         return bestmatches
 
+
+
